@@ -1,5 +1,5 @@
 # Algoritma-Kmeans.md
-Berikut adalah Implementasi algoritma pengelompokan K-Means dengan menggunakan Borland C++ dan contoh kasus pengelompokan hasil akademik mahasiswa berdasarkan nilai UAS dan UTS mahasiswa.
+Berikut adalah Implementasi Algoritma K-Means Clustering untuk pengelompokan hasil akademik mahasiswa berdasarkan nilai UAS dan UTS menggunakan Borland C++.
 
 ## Metode
 + Tentukan k (jumlah cluster) yang ingin dibentuk
